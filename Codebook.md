@@ -1,4 +1,4 @@
-ntroduction
+Itroduction
 The script run_analysis.R
 
 downloads the data from UCI Machine Learning Repository
